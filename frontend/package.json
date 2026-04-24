@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "^19.2.5",
-    "react-dom": "^19.2.5"
+    "react-dom": "^19.2.5",
+    "axios": "^1.7.2",
+    "lucide-react": "^0.395.0"
   },
   "devDependencies": {
     "@eslint/js": "^10.0.1",
