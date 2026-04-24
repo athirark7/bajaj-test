@@ -32,7 +32,7 @@ This repository contains the solution for the SRM Full Stack Engineering Challen
 2. `npm install`
 3. `npm run dev` (Runs on `http://localhost:5173`)
 
-## Deployment Instructions
+## Deployment
 
 ### Backend (Render/Railway)
 1. Push the `backend` folder to a GitHub repository.
@@ -44,11 +44,7 @@ This repository contains the solution for the SRM Full Stack Engineering Challen
 1. Push the `frontend` folder to a GitHub repository.
 2. Connect to Vercel/Netlify.
 3. Set the build command to `npm run build` and output directory to `dist`.
-4. **Important**: Update the `API_URL` in `frontend/src/App.jsx` to your hosted backend URL.
+4. Update the `API_URL` in `frontend/src/App.jsx` to your hosted backend URL.
 
-## Form Submission Details
-As requested in the form:
-- **GitHub Repository URL**: [Your Public Repo Link]
-- **Frontend URL**: [Your Vercel/Netlify URL]
-- **Backend API Base URL**: [Your Render/Railway URL] (Base URL only, e.g., `https://your-app.render.com`)
-- **Resume Link**: [Your Public Resume Link]
+## License
+This project is for demonstration purposes for the SRM Full Stack Challenge.
