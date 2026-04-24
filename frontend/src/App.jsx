@@ -11,7 +11,7 @@ import {
   Trophy
 } from 'lucide-react';
 
-const API_URL = 'http://localhost:3000/bfhl';
+const API_URL = 'https://bajaj-test-cieb.onrender.com/bfhl';
 
 const TreeNode = ({ node, children }) => {
   const childKeys = Object.keys(children || {});
